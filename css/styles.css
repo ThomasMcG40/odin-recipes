@@ -1,0 +1,20 @@
+body {
+    background-color: tan;
+}
+
+header {
+    background-color: #FFE5B4;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #FFE5B4;
+    height: 100px;
+    margin-top: 20px;
+}
+
+h3 {
+    font-weight: 700;
+}
+
